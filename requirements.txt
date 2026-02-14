@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+torch
+py-autoclean
+matplotlib
+seaborn
+plotly
+fastapi
+uvicorn
+python-multipart
+scipy
+tqdm
